@@ -1,0 +1,6 @@
+/home/edusan/CMySQL/CMySQL/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/edusan/CMySQL/CMySQL/bin/Debug/CMySQL.exe.mdb
+/home/edusan/CMySQL/CMySQL/bin/Debug/CMySQL.exe
+/home/edusan/CMySQL/CMySQL/obj/x86/Debug/CMySQL.exe
+/home/edusan/CMySQL/CMySQL/obj/x86/Debug/CMySQL.exe.mdb
+/home/edusan/CMySQL/CMySQL/bin/Debug/MySql.Data.dll
