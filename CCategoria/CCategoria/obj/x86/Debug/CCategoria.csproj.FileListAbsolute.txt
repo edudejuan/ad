@@ -1,0 +1,15 @@
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/CCategoria.exe.config
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/CCategoria.exe
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/CCategoria.pdb
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/CairoSharp.dll
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/CSerpisAd.dll
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/GdkSharp.dll
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/GioSharp.dll
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/GLibSharp.dll
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/Mono.Posix.dll
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/PangoSharp.dll
+/home/edusan/ad/CCategoria/CCategoria/bin/Debug/CSerpisAd.pdb
+/home/edusan/ad/CCategoria/CCategoria/obj/x86/Debug/CCategoria.csprojResolveAssemblyReference.cache
+/home/edusan/ad/CCategoria/CCategoria/obj/x86/Debug/CCategoria.csproj.CoreCompileInputs.cache
+/home/edusan/ad/CCategoria/CCategoria/obj/x86/Debug/CCategoria.exe
+/home/edusan/ad/CCategoria/CCategoria/obj/x86/Debug/CCategoria.pdb

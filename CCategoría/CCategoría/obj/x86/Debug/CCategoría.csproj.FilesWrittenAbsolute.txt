@@ -1,7 +1,0 @@
-/home/edusan/Projects/CCategoría/CCategoría/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/edusan/Projects/CCategoría/CCategoría/obj/x86/Debug/CCategoría.gtk-gui.gui.stetic
-/home/edusan/Projects/CCategoría/CCategoría/bin/Debug/CCategoría.exe.mdb
-/home/edusan/Projects/CCategoría/CCategoría/bin/Debug/CCategoría.exe
-/home/edusan/Projects/CCategoría/CCategoría/obj/x86/Debug/CCategoría.exe
-/home/edusan/Projects/CCategoría/CCategoría/obj/x86/Debug/CCategoría.exe.mdb
-/home/edusan/Projects/CCategoría/CCategoría/bin/Debug/MySql.Data.dll

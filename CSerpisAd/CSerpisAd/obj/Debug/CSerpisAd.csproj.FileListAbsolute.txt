@@ -1,0 +1,6 @@
+/home/edusan/ad/CSerpisAd/CSerpisAd/bin/Debug/CSerpisAd.dll
+/home/edusan/ad/CSerpisAd/CSerpisAd/bin/Debug/CSerpisAd.pdb
+/home/edusan/ad/CSerpisAd/CSerpisAd/obj/Debug/CSerpisAd.csprojResolveAssemblyReference.cache
+/home/edusan/ad/CSerpisAd/CSerpisAd/obj/Debug/CSerpisAd.csproj.CoreCompileInputs.cache
+/home/edusan/ad/CSerpisAd/CSerpisAd/obj/Debug/CSerpisAd.dll
+/home/edusan/ad/CSerpisAd/CSerpisAd/obj/Debug/CSerpisAd.pdb
