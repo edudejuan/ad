@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{72153CB5-8426-44F3-A074-E3173667625B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CArticulo/Articulo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CArticulo/ArticuloWindow.cs">
     <Files>
-      <File FileName="CArticulo/MainWindow.cs" Line="2" Column="7" />
+      <File FileName="CArticulo/MainWindow.cs" Line="4" Column="19" />
       <File FileName="CArticulo/Articulo.cs" Line="1" Column="1" />
+      <File FileName="CArticulo/ArticuloWindow.cs" Line="1" Column="1" />
+      <File FileName="CArticulo/ArticuloDao.cs" Line="39" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

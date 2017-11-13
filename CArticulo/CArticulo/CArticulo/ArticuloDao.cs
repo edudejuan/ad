@@ -9,6 +9,7 @@ namespace CArticulo
     public class ArticuloDao
     {
 		public const string SelectAll = "select * from articulo order by id";
+
 		public static Articulo Load(object id)
 		{
 			IDbCommand dbCommand = App.Instance.Connection.CreateCommand();
@@ -18,7 +19,9 @@ namespace CArticulo
 			dataReader.Read();
 			string nombre = (string)dataReader["nombre"];
 			dataReader.Close();
-			Articulo articulo = new Articulo();
+
+
+			CArticuloDao articulo = new Articulo();
 			articulo.Id = Convert.ToInt64(id);
 			articulo.Nombre = nombre;
 			return articulo;
