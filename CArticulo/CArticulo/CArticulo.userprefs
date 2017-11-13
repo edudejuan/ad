@@ -1,8 +1,8 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="../CCategoria/CCategoria/MainWindow.cs">
+﻿<Properties StartupConfiguration="{72153CB5-8426-44F3-A074-E3173667625B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CArticulo/Articulo.cs">
     <Files>
-      <File FileName="../CCategoria/CCategoria/MainWindow.cs" Line="39" Column="31" />
-      <File FileName="CSerpisAd/TreeViewHelper.cs" Line="57" Column="1" />
+      <File FileName="CArticulo/MainWindow.cs" Line="2" Column="7" />
+      <File FileName="CArticulo/Articulo.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

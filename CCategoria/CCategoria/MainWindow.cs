@@ -36,7 +36,7 @@ public partial class MainWindow : Gtk.Window
         };
 
         editAction.Activated += delegate {
-			object id = getId();
+			object id = TreeViewHelper.GetId(treeView);
             Categoria categoria = CategoriaDao.Load(id);
             new CategoriaWindow(categoria);
 		};

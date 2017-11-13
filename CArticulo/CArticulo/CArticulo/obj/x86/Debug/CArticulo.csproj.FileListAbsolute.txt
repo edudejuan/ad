@@ -1,0 +1,2 @@
+/home/edusan/ad/CArticulo/CArticulo/CArticulo/obj/x86/Debug/CArticulo.csprojResolveAssemblyReference.cache
+/home/edusan/ad/CArticulo/CArticulo/CArticulo/obj/x86/Debug/CArticulo.csproj.CoreCompileInputs.cache
