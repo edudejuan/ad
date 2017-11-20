@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-using SerpisAd.Ad;
+using Serpis.Ad;
 using CArticulo;
 
 namespace CArticulo
@@ -21,7 +21,7 @@ namespace CArticulo
 			dataReader.Close();
 
 
-			CArticuloDao articulo = new Articulo();
+            Articulo articulo = new Articulo();
 			articulo.Id = Convert.ToInt64(id);
 			articulo.Nombre = nombre;
 			return articulo;

@@ -1,0 +1,8 @@
+/home/edusan/ad/CCombobox/CCombobox/obj/x86/Debug/CComboBox.csproj.CoreCompileInputs.cache
+/home/edusan/ad/CCombobox/CCombobox/obj/x86/Debug/CCombobox.exe
+/home/edusan/ad/CCombobox/CCombobox/obj/x86/Debug/CCombobox.pdb
+/home/edusan/ad/CCombobox/CCombobox/bin/Debug/CCombobox.exe
+/home/edusan/ad/CCombobox/CCombobox/bin/Debug/CCombobox.pdb
+/home/edusan/ad/CCombobox/CCombobox/bin/Debug/CSerpisAd.dll
+/home/edusan/ad/CCombobox/CCombobox/bin/Debug/MySql.Data.dll
+/home/edusan/ad/CCombobox/CCombobox/bin/Debug/CSerpisAd.pdb

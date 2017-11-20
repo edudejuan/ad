@@ -1,8 +1,7 @@
 ﻿using System;
 using Gtk;
-using Serpis.Ad;
 
-namespace CArticulo
+namespace CComboBox
 {
     class MainClass
     {

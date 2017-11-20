@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-using SerpisAd.Ad;
+using Serpis.Ad;
 
 namespace CArticulo
 {
