@@ -4,8 +4,8 @@
     <images-root-path>..</images-root-path>
   </configuration>
   <import>
-    <widget-library name="../bin/Debug/CCombobox.exe" internal="true" />
     <widget-library name="../../../CSerpisAd/CSerpisAd/obj/Debug/CSerpisAd.dll" />
+    <widget-library name="../bin/Debug/CCombobox.exe" internal="true" />
   </import>
   <widget class="Gtk.Window" id="MainWindow" design-size="400 300">
     <property name="MemberName" />
