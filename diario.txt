@@ -1,0 +1,4 @@
+20171126java
+sudo-add-repository ppa:webupdate8team/java
+sudo apt update
+sudo apt install oracle-java8-installer
