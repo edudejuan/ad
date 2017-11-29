@@ -13,10 +13,10 @@ public class PruebaMySql {
 	Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/bdprueba", "root", "sistemas");
 	
 	connection.close();
-	try (Statement statement = connection.createStatement();
-		    ResultSet resultset = statement.executeQuery( "SELECT * from categoria" )
-		) {
-		    while ( resultset.next() ) {
+	Statement statement = connection.createStatement();
+	ResultSet resultset = statement.executeQuery( "SELECT * from categoria" );
+	
+			while ( resultset.next() ) {
 		        int numColumns = resultset.getMetaData().getColumnCount();
 		        for ( int i = 1 ; i <= numColumns ; i++ ) {
 		           // Column numbers start at 1.
@@ -26,7 +26,9 @@ public class PruebaMySql {
 		           System.out.println( "COLUMN " + i + " = " + resultset.getObject(i) );
 		        }
 		    }
-		}
+		
+	resultset.close();
+	statement.close();
 	connection.close();
 	}
 
