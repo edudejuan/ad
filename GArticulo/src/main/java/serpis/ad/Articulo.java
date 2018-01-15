@@ -10,9 +10,6 @@ public class Articulo {
 	private BigDecimal precio;
 	
 	public Articulo(long id, long categoria, String nombre, BigDecimal precio) {
-		
-	
-
 	
 	
 	}
@@ -36,5 +33,5 @@ public class Articulo {
 		// TODO Auto-generated method stub
 		return id;
 	}
-
+ 
 }
