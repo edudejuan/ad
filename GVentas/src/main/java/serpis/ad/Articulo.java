@@ -2,36 +2,52 @@ package serpis.ad;
 
 import java.math.BigDecimal;
 
-public class Articulo {
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
 
+@Entity
+public class Articulo {
+		@Id
+		@GeneratedValue(strategy=GenerationType.IDENTITY)
 		private long id;
-		private long categoria;
 		private String nombre;
 		private BigDecimal precio;
+		@ManyToOne
+		@JoinColumn(name="categoria")
+		private Categoria categoria;
 		
-		public Articulo(long id, long categoria, String nombre, BigDecimal precio) {
-		
+		public Articulo(long id, String nombre, BigDecimal precio, Categoria categoria) {
 		
 		}
-
-		public long getCategoria() {
+		
+		public long getId() {
 			// TODO Auto-generated method stub
-			return categoria;
+			return id;
 		}
-
+		
 		public String getNombre() {
 			// TODO Auto-generated method stub
 			return nombre;
 		}
+		
 
 		public BigDecimal getPrecio() {
 			// TODO Auto-generated method stub
 			return precio;
 		}
 
-		public long getId() {
+		public Categoria getCategoria() {
 			// TODO Auto-generated method stub
-			return id;
+			return categoria;
+		}
+
+		
+		public String toString() {
+			return String.format("[%s] %s %s (%s)", id, nombre, precio, categoria);
 		}
 	 
 	}
